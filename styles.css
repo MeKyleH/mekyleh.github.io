@@ -115,6 +115,11 @@ html, body {
   position: relative;
   margin-bottom: 48px;
 }
+
+.mdl-layout__content {
+  background-color: currentColor;
+}
+
 .mdl-demo section.section--center {
   max-width: 860px;
 }
